@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ForkCommunciate"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ForkCommunciate">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/ForkCommunciate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 ForkCommunciate"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ForkCommunciate/fast">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/ForkCommunciate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 ForkCommunciate/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="second">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/second.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 second"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="second/fast">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/second.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 second/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="third">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/third.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 third"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="third/fast">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/third.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 third/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/one.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 one"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one/fast">
+				<Option output="C:/c++/.vs/ForkCommunciate/cmake-build-debug/one.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 one/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/c++/.vs/ForkCommunciate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/c++/.vs/ForkCommunciate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/communciate.cpp">
+			<Option target="ForkCommunciate"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/main.cpp">
+			<Option target="ForkCommunciate"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/one.cpp">
+			<Option target="one"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/second.c">
+			<Option target="ForkCommunciate"/>
+			<Option target="second"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/third.c">
+			<Option target="ForkCommunciate"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/third.cpp">
+			<Option target="ForkCommunciate"/>
+			<Option target="third"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/two.c">
+			<Option target="ForkCommunciate"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/two.cpp">
+			<Option target="ForkCommunciate"/>
+		</Unit>
+		<Unit filename="C:/c++/.vs/ForkCommunciate/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

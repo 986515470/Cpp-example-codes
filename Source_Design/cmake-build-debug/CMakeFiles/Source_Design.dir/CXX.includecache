@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/c++/.vs/Source_Design/Tree.cpp
+iostream
+-
+
+C:/c++/.vs/Source_Design/main.cpp
+iostream
+-
+Tree.cpp
+C:/c++/.vs/Source_Design/Tree.cpp
+

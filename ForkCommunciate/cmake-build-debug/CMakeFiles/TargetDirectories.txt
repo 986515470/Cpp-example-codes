@@ -1,0 +1,6 @@
+C:/c++/.vs/ForkCommunciate/cmake-build-debug/CMakeFiles/ForkCommunciate.dir
+C:/c++/.vs/ForkCommunciate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/c++/.vs/ForkCommunciate/cmake-build-debug/CMakeFiles/second.dir
+C:/c++/.vs/ForkCommunciate/cmake-build-debug/CMakeFiles/third.dir
+C:/c++/.vs/ForkCommunciate/cmake-build-debug/CMakeFiles/one.dir
+C:/c++/.vs/ForkCommunciate/cmake-build-debug/CMakeFiles/edit_cache.dir

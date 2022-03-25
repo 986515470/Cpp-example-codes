@@ -1,0 +1,2 @@
+C:\c++\.vs\china加密\x64\Debug\china加密.exe
+C:\c++\.vs\china加密\x64\Debug\china加密.pdb
