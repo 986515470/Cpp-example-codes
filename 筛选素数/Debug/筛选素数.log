@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\c++\.vs\筛选素数\源.cpp(7,12): warning C4101: “k”: 未引用的局部变量
+  筛选素数.vcxproj -> C:\c++\.vs\筛选素数\Debug\筛选素数.exe

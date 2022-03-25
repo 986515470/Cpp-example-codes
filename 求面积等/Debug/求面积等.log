@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\c++\.vs\求面积等\源.cpp(10,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\c++\.vs\求面积等\源.cpp(11,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\c++\.vs\求面积等\源.cpp(12,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\c++\.vs\求面积等\源.cpp(13,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\c++\.vs\求面积等\源.cpp(14,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  求面积等.vcxproj -> C:\c++\.vs\求面积等\Debug\求面积等.exe

@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\c++\.vs\求圆周率\源.cpp(8,8): warning C4101: “PI”: 未引用的局部变量
+  求圆周率.vcxproj -> C:\c++\.vs\求圆周率\Debug\求圆周率.exe

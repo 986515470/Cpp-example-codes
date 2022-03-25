@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\c++\.vs\木\木\源.cpp(12,29): error C3867: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length”: 非标准语法；请使用 "&" 来创建指向成员的指针
+C:\c++\.vs\木\木\源.cpp(12,29): error C2446: “<”: 没有从“unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const”到“int”的转换
+C:\c++\.vs\木\木\源.cpp(12,23): message : 没有使该转换得以执行的上下文
