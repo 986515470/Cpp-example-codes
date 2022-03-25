@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\c++\.vs\维吉尼亚\维吉尼亚\源.cpp(13,9): warning C4101: “max”: 未引用的局部变量
+C:\c++\.vs\维吉尼亚\维吉尼亚\源.cpp(10,24): warning C4101: “j”: 未引用的局部变量
+  维吉尼亚.vcxproj -> C:\c++\.vs\维吉尼亚\Debug\维吉尼亚.exe

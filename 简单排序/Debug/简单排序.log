@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\c++\.vs\简单排序\源.cpp(6,40): warning C4101: “e”: 未引用的局部变量
+C:\c++\.vs\简单排序\源.cpp(6,42): warning C4101: “f”: 未引用的局部变量
+C:\c++\.vs\简单排序\源.cpp(6,38): warning C4101: “d”: 未引用的局部变量
+  简单排序.vcxproj -> C:\c++\.vs\简单排序\Debug\简单排序.exe

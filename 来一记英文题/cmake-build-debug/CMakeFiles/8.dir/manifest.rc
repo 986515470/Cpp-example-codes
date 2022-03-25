@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/c++/.vs/8/cmake-build-debug/CMakeFiles/8.dir/embed.manifest"

@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\wcy\source\repos\回文素数\源.cpp(18,15): error C2086: “int j”: 重定义
+C:\Users\wcy\source\repos\回文素数\源.cpp(8): message : 参见“j”的声明
+C:\Users\wcy\source\repos\回文素数\源.cpp(6,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
